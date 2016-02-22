@@ -1,0 +1,9 @@
+﻿<Window x:Class="beadando3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:app="clr-namespace:beadando3"
+        Title="MainWindow" Height="550" Width="1620" Background="Black">
+    <app:Felulet>
+        
+    </app:Felulet>
+</Window>

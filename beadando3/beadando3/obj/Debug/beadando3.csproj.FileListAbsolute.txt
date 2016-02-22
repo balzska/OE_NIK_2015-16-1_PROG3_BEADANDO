@@ -1,0 +1,45 @@
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\bin\Debug\beadando3.exe.config
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\bin\Debug\beadando3.exe
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\bin\Debug\beadando3.pdb
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3.csprojResolveAssemblyReference.cache
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\MainWindow.g.cs
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\App.g.cs
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3_MarkupCompile.cache
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3_MarkupCompile.lref
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\MainWindow.baml
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3.g.resources
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3.Properties.Resources.resources
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3.csproj.GenerateResource.Cache
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3.exe
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\beadando3\beadando3\obj\Debug\beadando3.pdb
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\bin\Debug\beadando3.exe.config
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3.exe
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3.pdb
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\bin\Debug\beadando3.exe
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\bin\Debug\beadando3.pdb
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3.csprojResolveAssemblyReference.cache
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\MainWindow.g.cs
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\App.g.cs
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3_MarkupCompile.cache
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3_MarkupCompile.lref
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\MainWindow.baml
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3.g.resources
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3.Properties.Resources.resources
+C:\Users\vares_000\Downloads\beadando3v2\beadando3\beadando3\obj\Debug\beadando3.csproj.GenerateResource.Cache
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\bin\Debug\beadando3.exe.config
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3.exe
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3.pdb
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\bin\Debug\beadando3.exe
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\bin\Debug\beadando3.pdb
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3.csprojResolveAssemblyReference.cache
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\MainWindow.g.cs
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\App.g.cs
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3_MarkupCompile.cache
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3_MarkupCompile.lref
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\MainWindow.baml
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3.g.resources
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3.Properties.Resources.resources
+D:\Dokumentumok\Suli\Prog3\beadando3v3\beadando3\beadando3\obj\Debug\beadando3.csproj.GenerateResource.Cache
